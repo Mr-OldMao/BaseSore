@@ -1,0 +1,6 @@
+D:\vsNameSpace\算法\算法\bin\Debug\算法.exe.config
+D:\vsNameSpace\算法\算法\bin\Debug\算法.exe
+D:\vsNameSpace\算法\算法\bin\Debug\算法.pdb
+D:\vsNameSpace\算法\算法\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+D:\vsNameSpace\算法\算法\obj\Debug\算法.exe
+D:\vsNameSpace\算法\算法\obj\Debug\算法.pdb
